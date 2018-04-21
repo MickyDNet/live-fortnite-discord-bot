@@ -22,6 +22,7 @@ If its an issue with dependencies, I most likely cannot help you as I did not co
      * This bot was originally made for one of my discords.. so some of the code is an inside joke/meme.
 * There is a delay between my game and the bot.
   * There is nothing I can do about this, Fortnite has a delay on the file the bot reads it from. 
+* `Unhandled errors` when not in game. These will most likely be fixed in a later build.
 	 
 # Need any help?
 Join my `empty` Discord ;) https://discord.gg/wkdmu4g
