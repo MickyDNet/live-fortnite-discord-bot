@@ -20,6 +20,8 @@ If its an issue with dependencies, I most likely cannot help you as I did not co
 * Most of this code makes no sense..
   * e.g. `message.content.includes('man ben')` & `message.content.includes('lee')`
      * This bot was originally made for one of my discords.. so some of the code is an inside joke/meme.
+* There is a delay between my game and the bot.
+  * There is nothing I can do about this, Fortnite has a delay on the file the bot reads it from. 
 	 
 # Need any help?
 Join my `empty` Discord ;) https://discord.gg/wkdmu4g
