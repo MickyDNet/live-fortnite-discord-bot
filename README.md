@@ -1,4 +1,4 @@
-**BROKEN SINCE THE NEW UPDATE**
+# **BROKEN SINCE THE NEW UPDATE**
 
 # Node JS - Live Fortnite Discord Bot
 This script will play tones over the bot accordingly during your game;
