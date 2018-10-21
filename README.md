@@ -1,3 +1,5 @@
+**BROKEN SINCE THE NEW UPDATE**
+
 # Node JS - Live Fortnite Discord Bot
 This script will play tones over the bot accordingly during your game;
 * Every 10 players that die <= 50 Alive
